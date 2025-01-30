@@ -58,7 +58,7 @@ MAIL_PASSWORD=your-app-password
 ```
 
 2. You will need to create an **App Password** if you are using Gmail for sending emails. Instructions can be found [here](https://support.google.com/accounts/answer/185833).
-
+Note Do Not Add Space Between App Password Code
 ---
 
 **Usage**
@@ -86,4 +86,4 @@ Report Generation
 
 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE] file for details.
