@@ -87,3 +87,17 @@ Report Generation
 License
 
 This project is licensed under the MIT License – see the [LICENSE] file for details.
+
+
+🚨 Disclaimer
+
+This tool is for educational and ethical cybersecurity purposes only.  
+ClickSafe simulates phishing attacks to raise awareness about phishing risks and security best practices. Do not use this tool for malicious activities.  
+
+Usage
+- Only run this tool on systems you own or have explicit permission to test.
+- Always inform your organization or team members when conducting phishing simulations.
+- Respect privacy and security laws.
+
+By using this tool, you agree to use it responsibly and ethically. Any misuse of this tool is the sole responsibility of the user.
+
